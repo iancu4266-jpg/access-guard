@@ -7,5 +7,11 @@ Compares both lists and removes any matches.
 Writes the updated list back to the file.
  Example Files
  allow_list.txt
+192.168.1.1
+10.0.0.1
+172.16.0.5
  remove_list.txt
+10.0.0.1
  Output after running the algorithm:
+172.16.0.5
+192.168.1.1
