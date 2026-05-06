@@ -30,4 +30,5 @@ Automation concepts in cybersecurity
 
 Screenshot
 
-![Code Screenshot](<img width="1152" height="648" alt="screenshot_ip" src="https://github.com/user-attachments/assets/888a42cd-de5f-4016-b804-3bfd022f83c0" />)
+![Code Screenshot](<img width="1152" height="648" alt="screenshot_ip" src="https://github.com/user-attachments/assets/cc05f399-68cf-487c-b856-0b942abf1cfa" />
+)
