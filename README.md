@@ -30,4 +30,4 @@ Automation concepts in cybersecurity
 
 Screenshot
 
-![Code Screenshot](access guard/screenshot_ip.png)
+![Code Screenshot](screenshot_ip.png)
