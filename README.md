@@ -23,6 +23,11 @@ Python File I/O
 List operations and loops
 Conditional logic
 Automation concepts in cybersecurity
+
+
+
+
+
 Screenshot
 
 ![Code Screenshot](screenshot_ip.png)
